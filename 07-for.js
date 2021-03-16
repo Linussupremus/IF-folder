@@ -53,3 +53,5 @@ console.log('---------');
 const sakinys = 'Labas Vakaras';
 
 for (let i=0; i < sakinys.length; i++) 
+{cons simbolis = sakinys [i]};
+console.log(simbolis);
